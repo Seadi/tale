@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Tale
 paginate:       5
 baseurl:        "/tale"
-url:            "https://http://seadi.github.io"
+url:            "https://seadi.github.io"
 
 # Assets
 sass:
